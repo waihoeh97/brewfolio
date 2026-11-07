@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Local planning and working documents
+/working/
+
+# Build output and caches
+dist/
+build/
+coverage/
+.vite/
+*.tsbuildinfo
+
+# Local Netlify state
+.netlify/
+
+# Local environment variables (keep a safe example tracked)
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
